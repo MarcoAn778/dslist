@@ -1,4 +1,4 @@
-# Sistema de lista de jogos
+# Sistema de lista de Games
 
 
 ### Modelo de domínio DSList
