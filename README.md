@@ -3,4 +3,5 @@
 
 ### Modelo de domínio DSList
 
-![image](https://github.com/user-attachments/assets/c2a10808-f80d-4a54-9aaf-ec210b2d1d3d)
+![image](https://github.com/user-attachments/assets/e8bee6b8-bfd5-4563-870b-2763bfe7527b)
+
