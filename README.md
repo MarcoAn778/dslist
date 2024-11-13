@@ -1,5 +1,5 @@
 # Sistema de lista de Games
-
+Nesse projeto desenvolvido usei o java com Spring, utilizando o método de desenvolvimento em camadas.
 
 ### Modelo de domínio DSList
 
